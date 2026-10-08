@@ -11,7 +11,7 @@ Portafolio profesional con currículum descargable. Perfil de estudiante de Inge
 - Proyectos académicos de Python y electrónica.
 - Aplicación Habi, con enlace al repositorio público revisado.
 - Formación, habilidades e inglés aproximado B1.
-- Resultados académicos proporcionados por Julián.
+- Las 10 materias de la carrera con calificaciones superiores a 9, verificadas en el kárdex y excluyendo las claves de tronco común (TC).
 - Currículum imprimible y descargable en PDF, correo profesional y contacto mediante GitHub.
 
 Se distinguen habilidades académicas e intereses. No se incluyen empleos, certificaciones, premios, fechas de titulación o teléfono sin confirmar.
