@@ -7,12 +7,14 @@ Portafolio profesional con currículum descargable. Perfil de estudiante de Inge
 ## Contenido
 
 - Perfil y objetivo profesional.
+- Fotografía personal recuperada de la página de Wix proporcionada por Julián.
 - Brazo robótico impreso en PLA con placa Blue Pill y reconocimiento vectorial mediante webcam, en fase de pruebas.
 - Proyectos académicos de Python y electrónica.
 - Aplicación Habi, con enlace al repositorio público revisado.
 - Formación, habilidades e inglés aproximado B1.
+- Cursos completados y verificables: MATLAB Onramp y Statistics Onramp, de MathWorks (2024).
 - Las 10 materias de la carrera con calificaciones superiores a 9, verificadas en el kárdex y excluyendo las claves de tronco común (TC).
-- Currículum imprimible y descargable en PDF, correo profesional y enlaces a GitHub y LinkedIn.
+- Currículum imprimible y descargable en PDF, correo profesional, ubicación en Guadalajara y enlaces a GitHub y LinkedIn.
 
 Se distinguen habilidades académicas e intereses. No se incluyen empleos, certificaciones, premios, fechas de titulación o teléfono sin confirmar.
 
@@ -33,6 +35,7 @@ Abre `http://localhost:8080`. El archivo `dist/cv.html` permite guardar el curr�
 - `dist/cv.html` y `dist/cv.css`: currículum y formato de impresión.
 - `dist/script.js` y `dist/cv.js`: navegación accesible e impresión.
 - `dist/favicon.svg`: monograma.
+- `dist/assets/julian-ortiz.jpg`: fotografía personal.
 
 Si cambias datos profesionales, actualiza tanto el portafolio como el currículum.
 Regenera también `dist/cv-julian-ortiz.pdf` desde `dist/cv.html` con la opción de impresión del navegador.
@@ -40,3 +43,10 @@ Regenera también `dist/cv-julian-ortiz.pdf` desde `dist/cv.html` con la opción
 ## Alojamiento
 
 Sitio estático alojado públicamente en Sites. Este repositorio contiene el código del portafolio y el currículum. La configuración de Sites está en `.openai/hosting.json`.
+
+## Referencias del contenido
+
+- [Página de Wix de Julián](https://juliancitorodrigue.wixsite.com/jorge-juli): fotografía y referencia de presentación.
+- [MATLAB Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ebdc2bf2-8f73-4a18-9cdc-10b696f26152): curso, titular y fecha verificados en MathWorks.
+- [Statistics Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=1b90dbc0-02ce-4ea3-912d-d50ec5a22095): curso, titular y fecha verificados en MathWorks.
+- Kárdex proporcionado por Julián: calificaciones de materias de la carrera superiores a 9, excluyendo tronco común. El documento completo no se publica.
