@@ -39,4 +39,4 @@ Regenera también `dist/cv-julian-ortiz.pdf` desde `dist/cv.html` con la opción
 
 ## Alojamiento
 
-Sitio estático compatible con Sites y GitHub Pages. Para GitHub Pages, el flujo incluido publica el contenido de `dist` desde la rama `main` cuando Pages está configurado para usar GitHub Actions. La configuración de Sites está en `.openai/hosting.json`.
+Sitio estático alojado públicamente en Sites. Este repositorio contiene el código del portafolio y el currículum. La configuración de Sites está en `.openai/hosting.json`.
