@@ -2,7 +2,7 @@
 
 Portafolio profesional con currículum descargable. Perfil de estudiante de Ingeniería Aeroespacial de la Universidad Marista de Guadalajara.
 
-[Visitar la web pública](https://julian-ortiz-aeroespacial.jorgeortizguerra33.chatgpt.site) · [Descargar CV](dist/cv-julian-ortiz.pdf)
+[Visitar la web pública](https://julian-ortiz-aeroespacial.jorgeortizguerra33.chatgpt.site) · [Descargar CV](dist/cv-julian-ortiz.pdf) · [Perfil de LinkedIn](https://www.linkedin.com/in/jorge-juli%C3%A1n-ortiz-rodr%C3%ADguez-333842288)
 
 ## Contenido
 
@@ -12,7 +12,7 @@ Portafolio profesional con currículum descargable. Perfil de estudiante de Inge
 - Aplicación Habi, con enlace al repositorio público revisado.
 - Formación, habilidades e inglés aproximado B1.
 - Las 10 materias de la carrera con calificaciones superiores a 9, verificadas en el kárdex y excluyendo las claves de tronco común (TC).
-- Currículum imprimible y descargable en PDF, correo profesional y contacto mediante GitHub.
+- Currículum imprimible y descargable en PDF, correo profesional y enlaces a GitHub y LinkedIn.
 
 Se distinguen habilidades académicas e intereses. No se incluyen empleos, certificaciones, premios, fechas de titulación o teléfono sin confirmar.
 
