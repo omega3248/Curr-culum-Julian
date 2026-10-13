@@ -11,6 +11,7 @@ Portafolio profesional con currículum descargable. Perfil de estudiante de Inge
 - Brazo robótico impreso en PLA con placa Blue Pill y reconocimiento vectorial mediante webcam, en fase de pruebas.
 - Proyectos académicos de Python y electrónica.
 - Aplicación Habi, con enlace al repositorio público revisado.
+- Órbita: mapa mental espacial para ordenar ideas de forma natural, visual e interactiva, con cuadros tridimensionales, conexiones, flechas, colores y guardado local. Código en el repositorio independiente `omega3248/orbita-mapa-mental`.
 - Experiencia confirmada como asistente en JA Energy: apoyo en sistemas solares, análisis estadístico y programación.
 - R, C++, HTML y MATLAB: nivel medio. Python y NumPy: uso académico.
 - Formación, habilidades e inglés aproximado B1.
