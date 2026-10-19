@@ -1,0 +1,11 @@
+{
+  "name": "curriculum-julian",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:cv": "node scripts/generate-cv.mjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}
